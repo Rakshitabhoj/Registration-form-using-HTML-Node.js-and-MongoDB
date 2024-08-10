@@ -23,26 +23,25 @@ This project is a simple registration form that demonstrates how to create a use
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/Rakshitabhoj/Registration-form-using-HTML-Node.js-and-MongoDB.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd your-repository-name
+   cd Registration-form-using-HTML-Node.js-and-MongoDB
    ```
 3. **Install the required dependencies:**
    ```bash
-   npm install
+   npm install express body-parser mongoose nodemon
    ```
 4. **Set up environment variables:**
-   - Create a `.env` file in the root directory.
    - Add your MongoDB connection string:
      ```
-     MONGODB_URI=your-mongodb-connection-string
+     MONGODB_URI=mongodb://localhost:27017
      ```
 
 5. **Start the server:**
    ```bash
-   node app.js
+   node index.js
    ```
 6. **Access the application:**
    Open your browser and go to `http://localhost:3000` to view the registration form.
