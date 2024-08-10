@@ -31,6 +31,7 @@ This project is a simple registration form that demonstrates how to create a use
    ```
 3. **Install the required dependencies:**
    ```bash
+   npm init
    npm install express body-parser mongoose nodemon
    ```
 4. **Set up environment variables:**
