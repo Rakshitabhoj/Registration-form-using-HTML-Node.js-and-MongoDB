@@ -27,7 +27,7 @@ This project is a simple registration form that demonstrates how to create a use
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd Registration-form-using-HTML-Node.js-and-MongoDB
+   cd registration process
    ```
 3. **Install the required dependencies:**
    ```bash
